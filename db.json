@@ -8,17 +8,19 @@
     { "id": 6, "dragonName": "Dragão Terra" }
   ],
   "dragon1a12": [
-    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
-    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
-    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
-    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
-    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
+    { "id": 7, "dragonName": "Dragão Terra" },
+    { "id": 8, "dragonName": "Dragão Terra" },
+    { "id": 9, "dragonName": "Dragão Terra" },
+    { "id": 10, "dragonName": "Dragão Terra" },
+    { "id": 11, "dragonName": "Dragão Terra" },
+    { "id": 12, "dragonName": "Dragão Terra" }
   ],
   "dragon1a12": [
-    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
-    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
-    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
-    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
-    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
-  ],
+    { "id": 13, "dragonName": "Dragão Terra" },
+    { "id": 14, "dragonName": "Dragão Terra" },
+    { "id": 15, "dragonName": "Dragão Terra" },
+    { "id": 16, "dragonName": "Dragão Terra" },
+    { "id": 17, "dragonName": "Dragão Terra" },
+    { "id": 18, "dragonName": "Dragão Terra" }
+  ]
 }
