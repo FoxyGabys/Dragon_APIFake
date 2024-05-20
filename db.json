@@ -1,14 +1,18 @@
 {
-  "casa": [
-    { "id": 1, "casa": "Grifinória", "url": "https://harrypotter.fandom.com/pt-br/wiki/Grifin%C3%B3ria" },
-    { "id": 2, "casa": "Sonserina", "url": "https://harrypotter.fandom.com/pt-br/wiki/Sonserina" },
-    { "id": 3, "casa": "Corvinal", "url": "https://harrypotter.fandom.com/pt-br/wiki/Corvinal" },
-    { "id": 4, "casa": "Lufa-Lufa", "url": "https://harrypotter.fandom.com/pt-br/wiki/Lufa-Lufa" }
+  "cursos": [
+    { "id": 1, "titulo": "Entendendo o ES6", "url": "https://www.codeprestige.com.br/cursos/es6" },
+    { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" },
+    { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
+    { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
   ],
-  "fundadores": [
-    { "id": 1, "nome": "Godrico Gryffindor", "casa": 1 },
-    { "id": 2, "nome": "Salazar Slytherin", "casa": 2 },
-    { "id": 3, "nome": "Rowena Ravenclaw", "casa": 3 },
-    { "id": 4, "nome": "Helga Hufflepuff", "casa": 4 }
-  ]
+  "alunos": [
+    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
+    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
+    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
+    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
+    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
+  ],
+  "empresa": {
+    "nome": "Code Prestige"
+  }
 }
