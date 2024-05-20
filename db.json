@@ -1,14 +1,22 @@
 {
-  "casa": [
-    { "id": 1, "casa": "Grifinória", "url": "https://harrypotter.fandom.com/pt-br/wiki/Grifin%C3%B3ria" },
-    { "id": 2, "casa": "Sonserina", "url": "https://harrypotter.fandom.com/pt-br/wiki/Sonserina" },
-    { "id": 3, "casa": "Corvinal", "url": "https://harrypotter.fandom.com/pt-br/wiki/Corvinal" },
-    { "id": 4, "casa": "Lufa-Lufa", "url": "https://harrypotter.fandom.com/pt-br/wiki/Lufa-Lufa" }
+  "dragon": [
+    { "id": 1, "dragonName": "Dragão Terra" },
+    { "id": 2, "dragonName": "Dragão Terra" },
+    { "id": 3, "dragonName": "Dragão Terra" },
+    { "id": 4, "dragonName": "Dragão Terra" },
+    { "id": 5, "dragonName": "Dragão Terra" },
+    { "id": 6, "dragonName": "Dragão Terra" },
+    { "id": 7, "dragonName": "Dragão Terra" },
+    { "id": 8, "dragonName": "Dragão Terra" },
+    { "id": 9, "dragonName": "Dragão Terra" },
+    { "id": 10, "dragonName": "Dragão Terra" },
+    { "id": 11, "dragonName": "Dragão Terra" },
+    { "id": 12, "dragonName": "Dragão Terra" },
+    { "id": 13, "dragonName": "Dragão Terra" },
+    { "id": 14, "dragonName": "Dragão Terra" },
+    { "id": 15, "dragonName": "Dragão Terra" },
+    { "id": 16, "dragonName": "Dragão Terra" },
+    { "id": 17, "dragonName": "Dragão Terra" },
+    { "id": 18, "dragonName": "Dragão Terra" }
   ],
-  "fundadores": [
-    { "id": 1, "nome": "Godrico Gryffindor", "casa": 1 },
-    { "id": 2, "nome": "Salazar Slytherin", "casa": 2 },
-    { "id": 3, "nome": "Rowena Ravenclaw", "casa": 3 },
-    { "id": 4, "nome": "Helga Hufflepuff", "casa": 4 }
-  ]
 }
